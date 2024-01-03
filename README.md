@@ -4,8 +4,8 @@
 
 [Data Resource](https://github.com/sannlynnhtun-coding/Dream-Dictionary)
 
-![Home Page](home.png)
+<img src="home.png" alt="home" style="width:300px;"/>
 
-![Discovery Page](discovery.png)
+<img src="discovery.png" alt="discovery" style="width:300px;"/>
 
-![Detail Page](detail.png)
+<img src="detail.png" alt="detail" style="width:300px;"/>
