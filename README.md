@@ -1,6 +1,5 @@
 # Dream Dictionary
 
-# Veno Vista
 
 [Data Resource](https://github.com/sannlynnhtun-coding/Dream-Dictionary)
 
